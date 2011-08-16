@@ -1,0 +1,4 @@
+FaceBookアプリ
+ビルドにはfacebook SDKが必要
+MyConnectActivity.java の new Facebook("xxx") のxxx に
+FacebookのアプリケーションIDが必要
